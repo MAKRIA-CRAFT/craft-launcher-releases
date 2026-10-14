@@ -1,2 +1,2 @@
 # craft-launcher-releases
-MAKRIA Craft — downloads (installers only)
+Myverse — downloads (installers only)
